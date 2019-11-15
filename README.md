@@ -1,3 +1,6 @@
-# Hello_World
+include <iostream>
 
-Hi psherz here learning to code
+int main()
+{
+cout << "Hello there Psherz";
+}
